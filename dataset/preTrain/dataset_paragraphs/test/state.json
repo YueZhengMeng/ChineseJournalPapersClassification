@@ -1,0 +1,19 @@
+{
+  "_data_files": [
+    {
+      "filename": "dataset.arrow"
+    }
+  ],
+  "_fingerprint": "52cd5832d1b5caa5",
+  "_format_columns": [
+    "attention_mask",
+    "input_ids",
+    "labels",
+    "token_type_ids"
+  ],
+  "_format_kwargs": {},
+  "_format_type": "torch",
+  "_indexes": {},
+  "_output_all_columns": false,
+  "_split": null
+}
